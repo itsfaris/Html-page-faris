@@ -1,2 +1,2 @@
-# Html-page-faris
+# itsfaris.github.io
 beginer
